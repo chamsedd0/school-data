@@ -274,9 +274,9 @@ position: absolute;
 
 const SignUp = () => (
   <SignUpWrapper>
-    <a href="/landing"><ReturnArrow viewBox="0 0 24 24"><path d="M19 12H5M12 19l-7-7 7-7" /></ReturnArrow></a>
+    <a href="/"><ReturnArrow viewBox="0 0 24 24"><path d="M19 12H5M12 19l-7-7 7-7" /></ReturnArrow></a>
     <SignUpContainer>
-      <a href="/landing"><LogoIcon src={Logo} /></a>
+      <a href="/"><LogoIcon src={Logo} /></a>
       <LeftSection>
         <LeftTitle className='appear'>Bienvenue!</LeftTitle>
         <LeftSubTitle className='appear'>

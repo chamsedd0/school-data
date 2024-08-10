@@ -278,7 +278,7 @@ const ReturnArrow = styled.svg`
 
 const SignIn = () => (
   <SignUpWrapper>
-    <a href="/landing"><ReturnArrow viewBox="0 0 24 24"><path d="M19 12H5M12 19l-7-7 7-7" /></ReturnArrow></a>
+    <a href="/"><ReturnArrow viewBox="0 0 24 24"><path d="M19 12H5M12 19l-7-7 7-7" /></ReturnArrow></a>
     <SignUpContainer>
       <LogoIcon src={Logo} />
       <LeftSection>
