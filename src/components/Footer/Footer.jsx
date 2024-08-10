@@ -1,6 +1,5 @@
 import React from 'react';
 import styled from 'styled-components';
-import { Flex, Box } from '@rebass/grid';
 
 import Logo from '../../assets/logo.svg';
 import facebook from '../../assets/facebook.svg';

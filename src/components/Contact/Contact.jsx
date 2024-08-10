@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import { Flex, Box } from '@rebass/grid';
+import { Flex } from '@rebass/grid';
 
 const ContactFormWrapper = styled(Flex)`
   flex-direction: column;
